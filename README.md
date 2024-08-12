@@ -16,12 +16,6 @@
 |Timothée Plisson               |timothee.plisson@epitech.eu  |
 
 
-|Nom                            |Mail                         |
-|-------------------------------|-----------------------------|
-|Mathis Champin                 |mathis.champin@epitech.eu    |
-|Edouard Bocquet                |edouard.bocquet@epitech.eu   |
-|Mathis Liberati                |mathis.liberati@epitech.eu   |
-
 Arcade is a project where we have to recreate an arcade machine where we can play various games under various graphics libraries.
 
 Games are shared libraries just like graphics libraries
