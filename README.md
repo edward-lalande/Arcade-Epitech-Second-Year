@@ -25,7 +25,7 @@ To date, SDL2 is not functional but is currently being processed.
 To test it, clone the repositories then do 
 
 ```
-make && ./arcade lib/arcade_sfml.so
+cd Arcade-Epitech-Second-Year && make && ./arcade lib/arcade_sfml.so
 ```
 
 the graphics libraries are on the left to select them you have to click on them and in ncurse you have to click on the corresponding key.
